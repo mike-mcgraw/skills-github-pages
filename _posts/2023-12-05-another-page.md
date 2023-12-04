@@ -1,9 +1,9 @@
 ---
 title: "More Info"
-date: 2023-12-04
+date: 2023-12-05
 super-secret-number: 21
 ---
 
-# More Info
-Here is some more info
+# Another Page
+Here is another page
 super-secret-number is: {{super-secret-number}}
