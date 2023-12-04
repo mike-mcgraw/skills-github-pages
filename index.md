@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# Hello, Pages!
 
+Learning about Github Pages 
