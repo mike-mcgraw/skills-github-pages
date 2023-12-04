@@ -1,3 +1,8 @@
-# Hello, Pages!
+---
+title: Hello, World!
+super-secret-number: 11
+---
 
-Learning about Github Pages 
+# A Github Pages thing
+
+I'm learning about Github Pages
