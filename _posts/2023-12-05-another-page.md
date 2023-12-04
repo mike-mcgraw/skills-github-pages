@@ -1,7 +1,7 @@
 ---
-title: "More Info"
+title: "Another Page"
 date: 2023-12-05
-super-secret-number: 21
+super-secret-number: 222
 ---
 
 # Another Page
